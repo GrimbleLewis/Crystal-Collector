@@ -1,0 +1,48 @@
+body { 
+    background: url(../images/wormz.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#gameTitle {
+    background-color: #cb6f34;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 335px;
+}
+
+#instructions {
+    background-color: #fbe6cf;
+    color: #45943c;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 625px;
+}
+
+.target-number-box {
+    background-color: #53c985;
+    color: #683871;
+    font-size: 30px;
+    font-weight: bold;
+    height: 125px;
+    width: 280px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+ 
+p {
+    line-height: 20px;
+}
