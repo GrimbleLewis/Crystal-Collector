@@ -10,27 +10,27 @@ body {
 #gameTitle {
     background-color: #cb6f34;
     color: white;
+    text-align: center;
     font-size: 45px;
     font-weight: bold;
     padding-top: 25px;
     padding-bottom: 25px;
     margin-top: 10px;
-    margin-left: 10px;
-    width: 335px;
+
+    
 }
 
 #instructions {
     background-color: #fbe6cf;
     color: #45943c;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     padding-top: 25px;
-    margin-left: 10px;
     margin-top: 10px;
-    width: 625px;
+
 }
 
-.target-number-box {
+#target-number-box {
     background-color: #53c985;
     color: #683871;
     font-size: 30px;
@@ -39,10 +39,48 @@ body {
     width: 280px;
     padding-top: 10px;
     padding-left: 10px;
+  
+    margin-top: 10px;
+}
+
+#score-box {
+    background-color: #3bfefb;
+    color: black;
+    height: 125px;
+    width: 100px;
+    padding-top: 10px;
+    padding-left: 5px;
     margin-left: 10px;
     margin-top: 10px;
 }
- 
+
+.crystalImage {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    border: 1px solid gold;
+}
+
+#crystals-box {
+    padding-left: 0;
+}
+
+#total-box {
+    background-color: #1fa397;
+    color: white;
+    margin-top: 10px;
+}
+
+#total-number-box {
+    background-color: #1fa397;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+
+}
+
+
 p {
     line-height: 20px;
 }
