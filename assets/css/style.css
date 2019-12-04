@@ -42,8 +42,6 @@ body {
     height: 125px;
     width: 280px;
     padding-top: 10px;
-    padding-left: 10px;
-  
     margin-top: 10px;
 }
 
@@ -92,10 +90,4 @@ body {
 
 p {
     line-height: 20px;
-}
-
-@media (min-width: 1200px) {
-    #target-number-box {
-        margin-left: 20px;
-    }
 }
