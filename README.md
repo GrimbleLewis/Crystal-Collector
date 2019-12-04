@@ -1,4 +1,4 @@
-# unit-4-game
+# Crystal Collector
 
 A guessing game that uses Math.random and on.click functions in order to reach a certain number without going over.
 
